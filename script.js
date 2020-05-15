@@ -1,8 +1,3 @@
-/**
- * kindle unlimited検索
- *
- * 2018-11-17版
- */
 function search() {
   var word = document.getElementById("word").value;
   var word_enc = encodeURIComponent(word);
